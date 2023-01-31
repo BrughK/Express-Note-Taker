@@ -1,10 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Bank Visit",
+        "text": "get my monayyyy",
+        "id": "b73f"
     },
     {
-        "title": "Post Test",
-        "text": "Post Text"
+        "title": "Clean car",
+        "text": "take to car wash that thang dirty",
+        "id": "c281"
+    },
+    {
+        "title": "Delete Note",
+        "text": "we gonna delete this one",
+        "id": "208b"
     }
 ]
