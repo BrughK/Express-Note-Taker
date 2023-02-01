@@ -4,7 +4,8 @@ const path = require('path');
 const app = express();
 const uuid = require('./helper/uuid');
 // Assign PORT#
-const PORT = 3001;
+// Need this for heroku to work
+cconst PORT = process.env.PORT || 3001;
 // Middleware for parsing JSON and urlencoded form data
 app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
