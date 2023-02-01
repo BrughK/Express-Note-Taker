@@ -17,7 +17,7 @@ An application that can be used to write and save notes. This application uses a
   <br/> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Link
-  Link to deployed app here: 
+  Link to deployed app here: https://kasen-express-note.herokuapp.com/
   
   ## Questions 
   If you have any questions about the repo, open an issue or contact me directly at kasenb1211@gmail.com. You can find more   of my work at [BrughK](https://github.com/BrughK/).
